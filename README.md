@@ -1,5 +1,6 @@
 # thibastos0
-**Thiago Bastos** \
+**Thiago Bastos**
+\
 # dio-AWS
 Nexa - Análise Avançada de Imagens e Texto com IA na AWS
 
