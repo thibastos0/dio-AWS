@@ -38,6 +38,11 @@ def get_lines() -> list[str]:
         detect_file_text()
     return []
 
+def main():
 
-for line in get_lines():
-    print(line)
+    for line in get_lines():
+        print(line)
+
+
+if __name__ == main():
+    main()
