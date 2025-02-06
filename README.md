@@ -12,7 +12,7 @@ Nexa - Análise Avançada de Imagens e Texto com IA na AWS
 
 A partir de uma imagem contendo uma lista de materiais foi gerada uma lista de str e impresso.
 
-Foi utilizado o Github [!aws-samples](https://github.com/aws-samples/amazon-textract-code-samples/blob/master/python/01-detect-text-local.py) como referência para criar o programa 'aws_textract_teste.py'.
+Foi utilizado o Github [aws-samples](https://github.com/aws-samples/amazon-textract-code-samples/blob/master/python/01-detect-text-local.py) como referência para criar o programa 'aws_textract_teste.py'.
 
 O arquivo response.json é utilizado para extrair as linhas com o texto detectado na imagem, fins de limitar o acesso a AWS toda vez que o programa é testado.
 
