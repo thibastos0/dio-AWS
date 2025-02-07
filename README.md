@@ -8,6 +8,8 @@ Nexa - Análise Avançada de Imagens e Texto com IA na AWS
 > Pequena é a parte da vida que vivemos, pois todo restante não é vida mas tempo.
 \- Sêneca
 
+[Instruções de instalação e atualização da AWS CLI](https://docs.aws.amazon.com/pt_br/cli/latest/userguide/getting-started-install.html)
+
 ## Atividade/Desafio 1: Transcrevendo uma Imagem em Texto com AWS Textract
 
 A partir de uma imagem contendo uma lista de materiais foi gerada uma lista de str e impresso.
