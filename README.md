@@ -18,6 +18,13 @@ Foi utilizado o Github [aws-samples](https://github.com/aws-samples/amazon-textr
 
 O arquivo response.json é utilizado para extrair as linhas com o texto detectado na imagem, fins de limitar o acesso a AWS toda vez que o programa é testado.
 
+## Atividade/Desafio 2: AWS Rekognition - Detectando Celebridades em Imagens
+
+A partir de uma imagem o programa detecta se há celebridades presentes e quantas são.
+
+Foi utilizado o Github [aws-samples](https://docs.aws.amazon.com/rekognition/latest/dg/celebrities-procedure-image.html) como referência para criar o programa 'aws_rekognition_teste.py' na parte de reconhecimento e o [Detect and display elements in images](https://docs.aws.amazon.com/rekognition/latest/dg/example_rekognition_Usage_DetectAndDisplayImage_section.html) para indicar na foto a celebridade encontrada.
+
+
 ## 😎🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=009CE2)](https://www.linkedin.com/in/thibastos0) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=96080E)](mailto:thibastos@gmail.com)
